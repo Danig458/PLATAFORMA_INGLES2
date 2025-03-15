@@ -1,4 +1,5 @@
-﻿using System;
+﻿using INGLES_PLATAFORMA.Controller;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -100,5 +101,14 @@ namespace INGLES_PLATAFORMA
             this.Hide(); // Oculta el formulario actual
             entrar.Show();
         }
+
+        private void btnRegistro_Click(object sender, EventArgs e)
+        {
+            RegistroController  registro = new RegistroController(txtNombre.Text,txtApellidos.Text,txtEmail.Text,txtContraseña.Text);
+            string Mensaje = (registro.GuardarUsuario()) ? "Registro completado" : "Ocurrio un error";
+            MessageBox.Show(Mensaje);
+ 
+        }
+
     }
 }
