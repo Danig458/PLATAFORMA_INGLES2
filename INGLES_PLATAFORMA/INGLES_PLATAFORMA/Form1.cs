@@ -16,8 +16,6 @@ namespace INGLES_PLATAFORMA
         public Form1()
         {
             InitializeComponent();
-
-            this.BackColor = ColorTranslator.FromHtml("#0097b2");
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

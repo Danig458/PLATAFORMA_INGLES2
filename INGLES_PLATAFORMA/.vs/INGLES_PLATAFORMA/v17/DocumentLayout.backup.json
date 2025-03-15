@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\",
+  "WorkspaceRootPath": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|c:\\users\\usuario\\onedrive\\documentos\\github\\englishonfly_project\\ingles_plataforma\\ingles_plataforma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|solutionrelative:ingles_plataforma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|c:\\users\\usuario\\onedrive\\documentos\\github\\englishonfly_project\\ingles_plataforma\\ingles_plataforma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|solutionrelative:ingles_plataforma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|c:\\users\\usuario\\onedrive\\documentos\\github\\englishonfly_project\\ingles_plataforma\\ingles_plataforma\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|solutionrelative:ingles_plataforma\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|c:\\users\\usuario\\onedrive\\documentos\\github\\englishonfly_project\\ingles_plataforma\\ingles_plataforma\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\ingles_plataforma\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|solutionrelative:ingles_plataforma\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|c:\\users\\usuario\\onedrive\\documentos\\github\\englishonfly_project\\ingles_plataforma\\ingles_plataforma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|c:\\users\\elfif\\onedrive\\desktop\\archivos compartidos git\\plataforma_ingles2\\ingles_plataforma\\ingles_plataforma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|solutionrelative:ingles_plataforma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\ingles_plataforma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|solutionrelative:ingles_plataforma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|c:\\users\\elfif\\onedrive\\desktop\\archivos compartidos git\\plataforma_ingles2\\ingles_plataforma\\ingles_plataforma\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|solutionrelative:ingles_plataforma\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\ingles_plataforma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|solutionrelative:ingles_plataforma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\ingles_plataforma\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFCDC641-7AF0-45A8-918E-A9775D63DC9D}|INGLES_PLATAFORMA\\INGLES_PLATAFORMA.csproj|solutionrelative:ingles_plataforma\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,52 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmRegistro.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\FrmRegistro.cs",
-              "RelativeDocumentMoniker": "INGLES_PLATAFORMA\\FrmRegistro.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\FrmRegistro.cs [Dise\u00F1o]",
-              "RelativeToolTip": "INGLES_PLATAFORMA\\FrmRegistro.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T17:08:57.345Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "INGLES_PLATAFORMA\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\FrmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "INGLES_PLATAFORMA\\FrmLogin.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T18:25:18.001Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Form1.cs",
-              "RelativeDocumentMoniker": "INGLES_PLATAFORMA\\Form1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Form1.cs",
-              "RelativeToolTip": "INGLES_PLATAFORMA\\Form1.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAWwFQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T17:56:32.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Form1.cs",
               "RelativeDocumentMoniker": "INGLES_PLATAFORMA\\Form1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "INGLES_PLATAFORMA\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T17:48:33.812Z",
@@ -83,11 +50,61 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\FrmRegistro.cs",
+              "RelativeDocumentMoniker": "INGLES_PLATAFORMA\\FrmRegistro.cs",
+              "ToolTip": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\FrmRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "INGLES_PLATAFORMA\\FrmRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:08:57.345Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\FrmRegistro.cs",
+              "RelativeDocumentMoniker": "INGLES_PLATAFORMA\\FrmRegistro.cs",
+              "ToolTip": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\FrmRegistro.cs",
+              "RelativeToolTip": "INGLES_PLATAFORMA\\FrmRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:16:16.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Form1.cs",
+              "RelativeDocumentMoniker": "INGLES_PLATAFORMA\\Form1.cs",
+              "ToolTip": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Form1.cs",
+              "RelativeToolTip": "INGLES_PLATAFORMA\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:56:32.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "INGLES_PLATAFORMA\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "INGLES_PLATAFORMA\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:25:18.001Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Program.cs",
               "RelativeDocumentMoniker": "INGLES_PLATAFORMA\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\EnglishOnFly_Project\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Program.cs",
+              "ToolTip": "C:\\Users\\elfif\\OneDrive\\Desktop\\Archivos compartidos git\\PLATAFORMA_INGLES2\\INGLES_PLATAFORMA\\INGLES_PLATAFORMA\\Program.cs",
               "RelativeToolTip": "INGLES_PLATAFORMA\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -18,3 +18,14 @@ C:\Users\Usuario\OneDrive\Documentos\GitHub\EnglishOnFly_Project\INGLES_PLATAFOR
 C:\Users\Usuario\OneDrive\Documentos\GitHub\EnglishOnFly_Project\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\OneDrive\Documentos\GitHub\EnglishOnFly_Project\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.exe
 C:\Users\Usuario\OneDrive\Documentos\GitHub\EnglishOnFly_Project\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.pdb
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\bin\Debug\INGLES_PLATAFORMA.exe.config
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\bin\Debug\INGLES_PLATAFORMA.exe
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\bin\Debug\INGLES_PLATAFORMA.pdb
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.csproj.AssemblyReference.cache
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.Form1.resources
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.Properties.Resources.resources
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.csproj.GenerateResource.cache
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.csproj.CoreCompileInputs.cache
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.exe
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.pdb
+C:\Users\elfif\OneDrive\Desktop\Archivos compartidos git\PLATAFORMA_INGLES2\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.FrmRegistro.resources
