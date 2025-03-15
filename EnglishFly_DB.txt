@@ -1,0 +1,63 @@
+create database EnglishFly_DB;
+
+use EnglishFly_DB;
+
+CREATE TABLE Usuario (
+    email VARCHAR(50) PRIMARY KEY NOT NULL,
+    nombre VARCHAR(50) NOT NULL,
+    apellido VARCHAR(50) NOT NULL,
+    contraseña VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE Tipo_Usuario (
+    idTipo INT PRIMARY KEY IDENTITY(1,1),
+    tipo VARCHAR(20) UNIQUE NOT NULL
+);
+
+INSERT INTO Tipo_Usuario (tipo) VALUES ('Administrador'), ('Profesor'), ('Estudiante');
+
+CREATE TABLE Usuario_Tipo (
+    emailUsuario VARCHAR(50) PRIMARY KEY,
+    idTipo INT NOT NULL,
+    FOREIGN KEY (emailUsuario) REFERENCES Usuario(email) ON DELETE CASCADE,
+    FOREIGN KEY (idTipo) REFERENCES Tipo_Usuario(idTipo) ON DELETE CASCADE
+);
+
+CREATE TABLE Profesor (
+    emailUsuario VARCHAR(50) PRIMARY KEY,
+    nivelAsignado VARCHAR(20) NOT NULL DEFAULT 'Básico',
+    FOREIGN KEY (emailUsuario) REFERENCES Usuario(email) ON DELETE CASCADE
+);
+
+CREATE TABLE PersonalAdmin (
+    emailUsuario VARCHAR(50) PRIMARY KEY,
+    nombreUsuario VARCHAR(50) UNIQUE NOT NULL,
+    FOREIGN KEY (emailUsuario) REFERENCES Usuario(email) ON DELETE CASCADE
+);
+
+CREATE TABLE Curso (
+    idCurso INT IDENTITY(10,10) PRIMARY KEY,
+    profesorEmail VARCHAR(50),
+    nivel VARCHAR(20) NOT NULL,
+    fechaInicio DATE NOT NULL,
+    FOREIGN KEY (profesorEmail) REFERENCES Profesor(emailUsuario) ON DELETE SET NULL
+);
+
+CREATE TABLE Clase (
+    idClase INT IDENTITY(1,1) PRIMARY KEY,
+    cursoId INT,
+    tema VARCHAR(100) NOT NULL,
+    contenido TEXT,
+    FOREIGN KEY (cursoId) REFERENCES Curso(idCurso) ON DELETE CASCADE
+);
+
+INSERT INTO Usuario (email, nombre, apellido, contraseña) 
+VALUES ('admin@gmail.com', 'Admin', 'Principal', 'contraseña123');
+
+INSERT INTO PersonalAdmin (emailUsuario, nombreUsuario) 
+VALUES ('admin@gmail.com', 'AdminMaster');
+
+INSERT INTO Usuario_Tipo (emailUsuario, idTipo)
+VALUES ('admin@gmail.com', 1); -- 1 = Administrador
+
+select * from Usuario
