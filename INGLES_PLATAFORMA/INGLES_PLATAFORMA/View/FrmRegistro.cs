@@ -97,7 +97,7 @@ namespace INGLES_PLATAFORMA
 
         private void lblIniciarSesion_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Form1 entrar = new Form1(); // Usa la clase frmLogin en lugar de Form
+            FormInicioSesion entrar = new FormInicioSesion(); // Usa la clase frmLogin en lugar de Form
             this.Hide(); // Oculta el formulario actual
             entrar.Show();
         }

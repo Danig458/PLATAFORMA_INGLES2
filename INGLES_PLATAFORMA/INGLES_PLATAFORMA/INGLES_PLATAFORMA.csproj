@@ -47,14 +47,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controller\RegistroController.cs" />
+    <Compile Include="Controller\UsuarioController.cs" />
     <Compile Include="Model\Conexion.cs" />
     <Compile Include="Model\GestorRegistro.cs" />
+    <Compile Include="Model\GestorUsuario.cs" />
     <Compile Include="Model\Registro.cs" />
-    <Compile Include="View\Form1.cs">
+    <Compile Include="Model\Usuario.cs" />
+    <Compile Include="View\FormInicioSesion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="View\FormInicioSesion.Designer.cs">
+      <DependentUpon>FormInicioSesion.cs</DependentUpon>
     </Compile>
     <Compile Include="View\FrmLogin.cs">
       <SubType>Form</SubType>
@@ -70,8 +73,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="View\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="View\FormInicioSesion.resx">
+      <DependentUpon>FormInicioSesion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\FrmRegistro.resx">
       <DependentUpon>FrmRegistro.cs</DependentUpon>

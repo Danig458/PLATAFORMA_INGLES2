@@ -1,4 +1,5 @@
-﻿using System;
+﻿using INGLES_PLATAFORMA.Controller;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,9 +12,9 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace INGLES_PLATAFORMA
 {
-    public partial class Form1 : Form
+    public partial class FormInicioSesion : Form
     {
-        public Form1()
+        public FormInicioSesion()
         {
             InitializeComponent();
         }
@@ -42,19 +43,19 @@ namespace INGLES_PLATAFORMA
 
         private void txtUsuario_Enter(object sender, EventArgs e)
         {
-            if (txtUsuario.Text == "USUARIO")
+            if (txtEmail.Text == "USUARIO")
             {
-                txtUsuario.Text = "";
-                txtUsuario.ForeColor = Color.Black; // Cambia el color del texto para que no parezca deshabilitado
+                txtEmail.Text = "";
+                txtEmail.ForeColor = Color.Black; // Cambia el color del texto para que no parezca deshabilitado
             }
         }
 
         private void txtUsuario_Leave(object sender, EventArgs e)
         {
-            if (txtUsuario.Text == "")
+            if (txtEmail.Text == "")
             {
-                txtUsuario.Text = "USUARIO";
-                txtUsuario.ForeColor = Color.Black; // Muestra el texto en gris para simular un placeholder
+                txtEmail.Text = "USUARIO";
+                txtEmail.ForeColor = Color.Black; // Muestra el texto en gris para simular un placeholder
             }
         }
 
@@ -85,10 +86,18 @@ namespace INGLES_PLATAFORMA
 
         private void btnInicioSesion_Click(object sender, EventArgs e)
         {
-            FrmLogin login = new FrmLogin(); // Usa la clase frmLogin en lugar de Form
-            this.Hide(); // Oculta el formulario actual
-            login.Show();
+            UsuarioController usuario = new UsuarioController(txtEmail.Text, txtContraseña.Text);
+            if (usuario.ValidarUsuario())
+            {
+                MessageBox.Show("Inicio de sesión exitoso");
+                FrmLogin login = new FrmLogin(); // Usa la clase frmLogin en lugar de Form
+                this.Hide(); // Oculta el formulario actual
+                login.Show();
+            }
+            else
+            {
+                MessageBox.Show("Usuario o contraseña incorrectos");
+            }
         }
-
     }
 }
