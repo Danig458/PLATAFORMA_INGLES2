@@ -22,6 +22,7 @@ namespace INGLES_PLATAFORMA
         private extern static void ReleaseCapture();
 
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
+
         private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
 
 
@@ -39,7 +40,7 @@ namespace INGLES_PLATAFORMA
         {
             if (MenuVertical.Width == 250)
             {
-                MenuVertical.Width = 60;
+                MenuVertical.Width = 0;
             }
 
             else

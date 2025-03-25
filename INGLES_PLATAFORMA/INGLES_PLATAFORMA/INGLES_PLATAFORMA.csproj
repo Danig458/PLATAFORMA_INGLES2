@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="View\Administrativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Administrativo.Designer.cs">
+      <DependentUpon>Administrativo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Controller\RegistroController.cs" />
     <Compile Include="Controller\UsuarioController.cs" />
     <Compile Include="Model\Conexion.cs" />
@@ -73,6 +79,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="View\Administrativo.resx">
+      <DependentUpon>Administrativo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\FormInicioSesion.resx">
       <DependentUpon>FormInicioSesion.cs</DependentUpon>
     </EmbeddedResource>
@@ -140,6 +149,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\maximizar button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GESTION USUARIO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GESTION USUARIO 2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

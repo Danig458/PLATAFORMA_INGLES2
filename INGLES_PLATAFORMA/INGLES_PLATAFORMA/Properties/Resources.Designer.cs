@@ -83,6 +83,26 @@ namespace INGLES_PLATAFORMA.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap GESTION_USUARIO {
+            get {
+                object obj = ResourceManager.GetObject("GESTION USUARIO", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap GESTION_USUARIO_2 {
+            get {
+                object obj = ResourceManager.GetObject("GESTION USUARIO 2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logo_2 {
             get {
                 object obj = ResourceManager.GetObject("logo 2", resourceCulture);
