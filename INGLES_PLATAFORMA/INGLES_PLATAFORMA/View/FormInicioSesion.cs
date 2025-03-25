@@ -64,6 +64,7 @@ namespace INGLES_PLATAFORMA
             if (txtContraseña.Text == "CONTRASEÑA")
             {
                 txtContraseña.Text = "";
+                txtContraseña.PasswordChar = '●';
                 txtContraseña.ForeColor = Color.Black; // Cambia el color del texto para que no parezca deshabilitado
             }
         }
@@ -74,6 +75,7 @@ namespace INGLES_PLATAFORMA
             {
                 txtContraseña.Text = "CONTRASEÑA";
                 txtContraseña.ForeColor = Color.Black; // Muestra el texto en gris para simular un placeholder
+                txtContraseña.PasswordChar = '\0';
             }
         }
 
@@ -98,6 +100,20 @@ namespace INGLES_PLATAFORMA
             {
                 MessageBox.Show("Usuario o contraseña incorrectos");
             }
+        }
+
+        private void pbMostrarC_Click(object sender, EventArgs e)
+        {
+            //imagen ocultar la mandamos al frente
+            pbOcultarC.BringToFront();
+            txtContraseña.PasswordChar = '\0';
+        }
+
+        private void pbOcultarC_Click(object sender, EventArgs e)
+        {
+            //imagen mostrar la mandamos al frente
+            pbMostrarC.BringToFront();
+            txtContraseña.PasswordChar = '●';
         }
     }
 }

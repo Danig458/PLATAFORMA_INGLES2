@@ -76,6 +76,9 @@
     <EmbeddedResource Include="View\FormInicioSesion.resx">
       <DependentUpon>FormInicioSesion.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\FrmRegistro.resx">
       <DependentUpon>FrmRegistro.cs</DependentUpon>
     </EmbeddedResource>
@@ -87,6 +90,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -101,6 +105,41 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="View\MOSTRAR CONTRASEÑA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OCULTAR CONTRASEÑA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO PLATAFORMA INGLES.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_10024161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\min2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximizar button.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

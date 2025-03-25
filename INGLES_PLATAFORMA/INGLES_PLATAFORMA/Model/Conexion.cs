@@ -11,7 +11,7 @@ namespace INGLES_PLATAFORMA.Model
 {
     internal class Conexion
     {
-        private string connectionString = "server=PC-MATEO\\SQLEXPRESS;integrated security=true;database=EnglishFly_DB";
+        private string connectionString = "Data Source=vivobookdaniela\\SQLEXPRESS;integrated security=true;database=EnglishFly_DB";
         public SqlConnection AbrirConexion()
 
         {
